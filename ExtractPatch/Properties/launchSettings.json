@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ExtractPatch": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"G:\\r20\\Data\\Maps\\Official\""
+    }
+  }
+}
